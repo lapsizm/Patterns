@@ -1,0 +1,11 @@
+1 nickname1 10
+2 nickname2 14
+3 nickname3 41
+44 nickname4 90
+31 nickname42 5
+131 nickname46 7
+21 nickname31 6
+43 nickname311 9
+39 nickname13 90
+99 nickname9 99
+97 nickname39 49

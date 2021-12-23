@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtemplated.a CMakeFiles/template.dir/sources/Log.cpp.o CMakeFiles/template.dir/sources/PageContainer.cpp.o CMakeFiles/template.dir/sources/StatSender.cpp.o CMakeFiles/template.dir/sources/UsedMemory.cpp.o CMakeFiles/template.dir/sources/Histogram.cpp.o
+/usr/bin/ranlib libtemplated.a
